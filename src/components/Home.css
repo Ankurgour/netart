@@ -10,6 +10,10 @@
     align-items: center  ;
     
 }
+.second-right{
+    margin-right: 50px;
+
+}
 
 .logo img{
     height: 200px;
